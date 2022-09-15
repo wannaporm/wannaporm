@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wannaporn
 - 👀 I’m interested in ...food
 - 🌱 I’m currently learning ...event
-- 💞️ I’m looking to collaborate on ...no not
+- 💞️ I’m looking to collaborate on ...yes welcome
 
 
 <!---
